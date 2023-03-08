@@ -5,4 +5,5 @@
 4-listmorefiles - This lists current directory contents including hidden files.
 5-listfilesdigitonly - This lists current directory contents with user and group IDs.
 6-firstdirectory - This script creates directory my_first_directory in the /tmp/ directory.
-7-movethatfile - This moves the file betty from /tmp/ to /tmp/my_first_directory . 
+7-movethatfile - This moves the file betty from /tmp/ to /tmp/my_first_directory .
+8-firstdelete - This script deletes the file betty from /tmp/my_first_directory . 
