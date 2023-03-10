@@ -15,3 +15,4 @@ Shell Permissions
 13-change_group - This changes the group owner of the file hello to school.
 100-change_owner_and_group - This writes a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
 101-symbolic_link_permissions - This changes the owner and the group owner of _hello to vincent and staff respectively.
+102-if_only - This changes the owner of the file hello to betty only if it is owned by the user guillaume.
