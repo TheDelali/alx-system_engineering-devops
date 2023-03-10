@@ -10,3 +10,4 @@ Shell Permissions
 8-James_Bond - This script sets no permission to the file for the owner and group but sets all permissions for other users.
 9-John_Doe - This script sets all permissins for the owner, read and execute permissins for the group owner, and write and execute permissions for other users.
 10-mirror_permissions - This sets the mode of the file hello the same as olleh's
+11-directories_permissions - This script adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
