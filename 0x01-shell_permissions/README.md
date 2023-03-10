@@ -11,3 +11,4 @@ Shell Permissions
 9-John_Doe - This script sets all permissins for the owner, read and execute permissins for the group owner, and write and execute permissions for other users.
 10-mirror_permissions - This sets the mode of the file hello the same as olleh's
 11-directories_permissions - This script adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
+12-directory_permissions - This creates a directory called my_dir with permissions 751 in the working directory.
