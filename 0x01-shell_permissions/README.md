@@ -8,3 +8,4 @@ Shell Permissions
 6-multiple_permissions -This adds execute permission to the owner and the group, and read permission to other users.
 7-everybody - This adds execution permision to the owner, group owner and other users, the file hello.
 8-James_Bond - This script sets no permission to the file for the owner and group but sets all permissions for other users.
+9-John_Doe - This script sets all permissins for the owner, read and execute permissins for the group owner, and write and execute permissions for other users.
