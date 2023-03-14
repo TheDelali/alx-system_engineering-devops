@@ -20,3 +20,4 @@ Shell Redirections
 18-letteronly - This displays all lines of the file /etc/ssh/sshd_config starting with a letter.
 19-AZ - This replaces all characcters A and c from input to Z and e respectively.
 20-hiago - This removes all letters c and C from input.
+21-reverse - This reverse it's input.
