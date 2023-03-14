@@ -23,3 +23,4 @@ Shell Redirections
 21-reverse - This reverse it's input.
 22-users_and_homes - This displays all users and their home directories, sorted by users.
 100-empty_casks - This finds all empty files and directories in the current directory and all sub-directories.
+101-gifs - This lists all the files with a .gif extension in the current directory and it's subdirectories.
