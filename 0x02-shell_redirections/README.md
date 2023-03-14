@@ -22,3 +22,4 @@ Shell Redirections
 20-hiago - This removes all letters c and C from input.
 21-reverse - This reverse it's input.
 22-users_and_homes - This displays all users and their home directories, sorted by users.
+100-empty_casks - This finds all empty files and directories in the current directory and all sub-directories.
