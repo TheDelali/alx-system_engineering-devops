@@ -5,3 +5,4 @@ Shell Redirections
 3-twofiles - This displays the content of /etc/passwd and /etc/hosts
 4-lastlines - This displays the last 10 lines of /etc/passwd.
 5-firstlines - This displays the first 10 lines of /etc/passwd.
+6-third_line - This displays the third line of the file iacta.
