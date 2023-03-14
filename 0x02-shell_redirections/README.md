@@ -21,3 +21,4 @@ Shell Redirections
 19-AZ - This replaces all characcters A and c from input to Z and e respectively.
 20-hiago - This removes all letters c and C from input.
 21-reverse - This reverse it's input.
+22-users_and_homes - This displays all users and their home directories, sorted by users.
