@@ -1,2 +1,2 @@
 #!/bin/bash
-seq -f '%s%s' a z|grep -v oo|grep -v z{2}
+grep -v 'oo\|zz' <(echo {a..z}{a..z}) | sort
