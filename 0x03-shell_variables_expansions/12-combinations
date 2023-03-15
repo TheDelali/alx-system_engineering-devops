@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {a..z}{a..z} | tr '' '\n' | grep -v 'oo'
+seq -f '%s%s' a z|grep -v oo|grep -v z{2}
