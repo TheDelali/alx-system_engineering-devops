@@ -1,2 +1,0 @@
-#!/bin/bash
-find . -type f -name '*.gif' -printf "%s %f\n" | awk -F. '{print $1, $2}' | sort -n -f -k 2 | awk '{print $2}'
