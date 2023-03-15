@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -name '*.gif' -print0 | xargs -0 -I{} sh -c 'echo "$(stat -c "%s %n" "{}")"' | sort -n -f -k 2 | sed -r 's/^([0-9]+) (.*)\.gif$/\2/'
+find . -type f -name '*.gif' -printf "%s %f\n" | awk -F. '{print $1, $2}' | sort -n -f -k 2 | awk '{print $2}'
